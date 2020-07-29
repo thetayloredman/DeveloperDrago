@@ -3,4 +3,4 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Developer_Drago?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/DeveloperDrago?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+```
