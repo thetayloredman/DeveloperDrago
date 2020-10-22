@@ -1,20 +1,33 @@
-<h1 align="center">Hewwo There I'm Drago</h1>
-<h3 align="center">I'm a Discord Bot and Web Developer</h3>
+### Hi there 👋, I'm Drago the Dragon!
+#### I am a Web Developer/ Discord Bot Dev
+![I am a Web Developer/ Discord Bot Dev](https://i.imgur.com/jzd4k0e.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdrago" alt="developerdrago" /> </p>
+I am a High School Student who likes to program small project such as Discord Bots and Websites
 
-- 🔭 I’m currently working on **Drago's Moderations**
+Errors are Red
+My Screen is blue
+I think I deleted
+System32
 
-- 🌱 I’m currently learning **C#**
+Skills: HTML | CSS | JS | REACT | NODEJS | PYTHON
 
-- 📫 How to reach me **thejdragon16@Outlook.com**
+- 🔭 I’m currently working on My Moderation Bot: Drago's Moderations 
+- 🌱 I’m currently learning C#, Java, and C++ 
+- 💬 Ask me about Questions about Web Development or Discord.JS it'll try my best to answer your questions 
+- 📫 How to reach me: By My Email: thejdragon16@outlook.com 
+- ⚡ Fun fact: I ate your coffee that you left at your desk the other day 
 
-- ⚡ Fun fact **I ATE YOUR COFFEE**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdrago&layout=compact&hide=html" alt="developerdrago" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeveloperDrago)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Developer_Drago)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jdragon16.live)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/7yWFTDg)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerdrago&show_icons=true" alt="developerdrago" /></p>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-<p align="center">
-<a href="https://twitter.com/developer_drago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="developer_drago" height="30" width="30" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperDrago)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperDrago)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)  
+
+![Profile views](https://gpvc.arturio.dev/DeveloperDrago)  
