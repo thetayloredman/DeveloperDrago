@@ -1,4 +1,4 @@
-### Hewwo There 👋, I'm Drago the Dragon!
+### Hi there 👋, I'm Drago the Dragon!
 #### I am a Web Developer/ Discord Bot Dev
 ![I am a Web Developer/ Discord Bot Dev](https://i.imgur.com/jzd4k0e.png)
 
@@ -20,13 +20,7 @@ Skills: HTML | CSS | JS | REACT | NODEJS | PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeveloperDrago)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Developer_Drago)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jdragon16.live)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/7yWFTDg)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperDrago)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperDrago)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)  
 
