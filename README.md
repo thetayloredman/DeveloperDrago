@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Drago the Dragon!
+### Hewwo There 👋, I'm Drago the Dragon!
 #### I am a Web Developer/ Discord Bot Dev
 ![I am a Web Developer/ Discord Bot Dev](https://i.imgur.com/jzd4k0e.png)
 
