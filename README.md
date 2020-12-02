@@ -35,7 +35,13 @@
   - GPU: AMD Radeon HD 7500G
  
 ### ⚙️ Special Peeps:
-  - [LostNuke]()
+  - [LostNuke](https://github.com/LostNuke) - Inspired me, Main Reason why I got into Programming
+  - [ThatLonleyMozza](https://github.com/ThatLonelyMozza) - Inspired me to make awesome Discord Bots like Drago's Moderations
+  - [AlmightyLks](https://github.com/AlmightyLks) - Got me into Learning C#
+  - [TheTayloredMan](https://github.com/thetayloredman) - Given me Advices and Tips
+  - More to Come...
+  
+  
   
   
 ### 💻 Operating Systems:
