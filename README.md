@@ -47,9 +47,9 @@
 
 ### 😛 Bragging Rights/Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Drago&layout=compact&theme=radical" alt="Wakatime Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&theme=radical" alt="Github Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Drago&layout=compact&theme=radical" alt="Wakatime Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&theme=radical" alt="Github Stats" /> 
 </div>
+
 <!-- ![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)  -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DeveloperDrago)
 ![Profile views](https://gpvc.arturio.dev/DeveloperDrago)  
