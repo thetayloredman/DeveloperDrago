@@ -19,6 +19,7 @@
 - 💬 Ask me about Questions about web development or Discord.js, I'll try my best to answer your questions.
 - 📫 How to reach me: By Email: thejdragon16@outlook.com
 - ⚡ Fun fact: I ate your coffee that you left at your desk the other day 
+
 "I always consider myself as a bad developer but eh I feel like i'm getting better than my past self. So I'm always improving" ~ Drago
 
 ### 🌻 My Skills
