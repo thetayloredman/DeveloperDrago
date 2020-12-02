@@ -15,7 +15,9 @@ My Screen is blue  <!-- 2 spaces -->
 I think I deleted  <!-- 2 spaces -->
 System32 <!-- no need for the spaces now -->
 
-Skills: **HTML5** | **CSS3** | **JS** | **REACT.JS** | **NODEJS** | **PYTHON**
+Skills: **HTML5/CSS3** | **JS** | **REACT.JS** | **NODEJS** | **PYTHON**
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)]()
+
 
 - 🔭 I’m currently working on My Moderation Bot: Drago's Moderations 
 - 🌱 I’m currently learning C#, Java, and C++ 
