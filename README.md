@@ -13,7 +13,7 @@
 
 ### 🥴 About Me
 
-- 🧍‍ I am a high school student who likes to program small projects such as Discord bots and websites and is possibly a furry.
+- 🧍‍ I am a student who likes to program small projects such as Discord bots and websites and is possibly a furry.
 - 🔭 I’m currently working on My Moderation Bot: Drago's Moderations 
 - 🌱 I’m currently learning C#, Java, and C++ 
 - 💬 Ask me about Questions about web development or Discord.js, I'll try my best to answer your questions.
