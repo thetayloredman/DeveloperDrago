@@ -4,19 +4,36 @@
   - Do not copy!
 -->
 # Hewwo there 👋, I'm Drago the Dragon ^w^!
-## I am a Web Developer / Discord Bot Dev
+I am a Web Developer / Discord Bot Dev
 <!-- we use an alt for when the image can't load -->
 ![Drago the Dragon](https://i.imgur.com/jzd4k0e.png)
 
-I am a high school student who likes to program small projects such as Discord bots and websites.
+### 🥴 About Me
+I am a high school student who likes to program small projects such as Discord bots and websites and is possibly a furry.
 <!-- place 2 spaces at the end so the GFM parser listens to the newlines -->
 Errors are Red  <!-- 2 spaces -->
 My Screen is blue  <!-- 2 spaces -->
 I think I deleted  <!-- 2 spaces -->
 System32 <!-- no need for the spaces now -->
 
-Skills: **HTML5/CSS3** | **JS** | **REACT.JS** | **NODEJS** | **PYTHON**
+### 🌻 My Skills
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)]()
+[![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)]()
+[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
+[![NodeJS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js)]()
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
+[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)]()
+
+### ⚙️ My Gear
+  - Ram: 4GB
+  - Processor: Processor	AMD A6-4455M APU with Radeon(tm) HD Graphics, 2100 Mhz, 2 Core(s), 2 Logical Processor(s)
+  - GPU: AMD Radeon HD 7500G
+  
+### 💻 Operating Systems:
+  
+  [![Windows Server 19](https://img.shields.io/badge/windows%20server%2019-black?style=for-the-badge&logo=windows)]()
+  [![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)]()
 
 
 - 🔭 I’m currently working on My Moderation Bot: Drago's Moderations 
