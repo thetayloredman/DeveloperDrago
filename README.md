@@ -4,7 +4,7 @@
   - Do not copy!
 -->
 # Hewwo there 👋, I'm Drago the Dragon ^w^!
-I am a Web Developer / Discord Bot Dev
+### I am a Web Developer / Discord Bot Dev
 <!-- we use an alt for when the image can't load -->
 ![Drago the Dragon](https://i.imgur.com/jzd4k0e.png)
 
