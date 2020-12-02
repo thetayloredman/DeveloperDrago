@@ -53,7 +53,10 @@
   <p align="right">
   <img width="50%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&theme=radical" alt="Github Stats" /> 
   </p>
-   <img width="50%" height="50%" align="center" src="https://github-profile-trophy.vercel.app/?username=DeveloperDrago&theme=radical" alt="Trophies" /> 
+  <p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=DeveloperDrago&theme=radical" alt="Trophies" />
+  </p>
+    
 
 ![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)
 
