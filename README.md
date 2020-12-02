@@ -3,10 +3,12 @@
   - Located at https://github.com/DeveloperDrago/DeveloperDrago @ /README.md
   - Do not copy!
 -->
-# Hewwo there 👋, I'm Drago the Dragon ^w^!
-### I am a Web Developer / Discord Bot Dev
-<!-- we use an alt for when the image can't load -->
-![Drago the Dragon](https://i.imgur.com/jzd4k0e.png)
+<div align="center">
+  <h1>👋 Hewwo There! I'm Drago The Dragon! ^w^</h1>
+  <h4>I am a Web Developer and a Discord Bot Dev</p>
+  <!-- we use an alt for when the image can't load -->
+  <img src="https://i.imgur.com/jzd4k0e.png" alt="Drago the Dragon" />
+</div>
 
 ### 🥴 About Me
 I am a high school student who likes to program small projects such as Discord bots and websites and is possibly a furry.
