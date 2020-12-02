@@ -47,19 +47,18 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeveloperDrago)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Developer_Drago)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jdragon16.live)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/7yWFTDg)  
 
 ### 😛 Bragging Rights/Stats:
+
+  <p align="center" margin="20px">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=DeveloperDrago&theme=radical" alt="Trophies" />
+  </p>
 <p align="left">
-  <img width="49%" height="50%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Drago&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img width="45%" height="50%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Drago&layout=compact&theme=radical" alt="Wakatime Stats" />
   </p>
   <p align="right">
   <img width="50%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&theme=radical" alt="Github Stats" /> 
   </p>
-  <br>
-  <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=DeveloperDrago&theme=radical" alt="Trophies" />
-  </p>
-    
 
-![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)
+ 
 
 ### Little Poem for my English Teachers:
 <!-- place 2 spaces at the end so the GFM parser listens to the newlines -->
