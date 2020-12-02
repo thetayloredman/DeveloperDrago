@@ -33,6 +33,9 @@
   - Ram: 4GB
   - Processor: Processor	AMD A6-4455M APU with Radeon(tm) HD Graphics, 2100 Mhz, 2 Core(s), 2 Logical Processor(s)
   - GPU: AMD Radeon HD 7500G
+ 
+### ⚙️ Special Peeps
+  
   
 ### 💻 Operating Systems:
   
@@ -44,13 +47,13 @@
 
 ### 😛 Bragging Rights/Stats:
 [![Trophy](https://github-profile-trophy.vercel.app/?username=DeveloperDrago)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)  
 
-![Profile views](https://gpvc.arturio.dev/DeveloperDrago)  
 
+### Little Poem for my English Teachers:
 <!-- place 2 spaces at the end so the GFM parser listens to the newlines -->
 Errors are Red  <!-- 2 spaces -->
 My Screen is blue  <!-- 2 spaces -->
 I think I deleted  <!-- 2 spaces -->
 System32 <!-- no need for the spaces now -->
+![Profile views](https://gpvc.arturio.dev/DeveloperDrago)  
