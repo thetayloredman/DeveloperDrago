@@ -8,6 +8,7 @@
   <h4>I am a Web Developer and a Discord Bot Dev</p>
   <!-- we use an alt for when the image can't load -->
   <img src="https://i.imgur.com/jzd4k0e.png" alt="Drago the Dragon" />
+  <hr>
 </div>
 
 ### 🥴 About Me
