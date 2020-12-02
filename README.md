@@ -34,7 +34,8 @@
   - Processor: Processor	AMD A6-4455M APU with Radeon(tm) HD Graphics, 2100 Mhz, 2 Core(s), 2 Logical Processor(s)
   - GPU: AMD Radeon HD 7500G
  
-### ⚙️ Special Peeps
+### ⚙️ Special Peeps:
+  - [LostNuke]()
   
   
 ### 💻 Operating Systems:
@@ -47,9 +48,12 @@
 
 ### 😛 Bragging Rights/Stats:
 
+<div>
+  <img width="50%" height="50%" align=left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Drago&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img width="50%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&theme=radical" alt="Github Stats" /> 
+</div>
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DeveloperDrago&theme=radical)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Drago&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloprDrago&show_icons=true&theme=radical)
 ![GitHub metrics](https://metrics.lecoq.io/DeveloperDrago)
 
 ### Little Poem for my English Teachers:
