@@ -57,12 +57,3 @@
   <p align="right">
   <img width="50%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeveloperDrago&show_icons=true&theme=radical" alt="Github Stats" /> 
   </p>
-
- 
-
-### Little Poem for my English Teachers:
-<!-- place 2 spaces at the end so the GFM parser listens to the newlines -->
-Errors are Red  <!-- 2 spaces -->
-My Screen is blue  <!-- 2 spaces -->
-I think I deleted  <!-- 2 spaces -->
-System32 <!-- no need for the spaces now -->
